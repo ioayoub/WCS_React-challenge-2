@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "name": "Mount Everest",
+      "category": "Mountain",
+      "picture": "everest.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "K2",
+      "category": "Mountain",
+      "picture": "K2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Matterhorn",
+      "category": "Mountain",
+      "picture": "Matterhorn.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mount Kilimanjaro",
+      "category": "Mountain",
+      "picture": "kilimanjaro.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Mount Fuji",
+      "category": "Mountain",
+      "picture": "fuji.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Denali",
+      "category": "Mountain",
+      "picture": "denali.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Makalu",
+      "category": "Mountain",
+      "picture": "Makalu.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mount Rainier",
+      "category": "Mountain",
+      "picture": "rainier.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Table Mountain",
+      "category": "Mountain",
+      "picture": "table-mountain.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mount Elbrus",
+      "category": "Mountain",
+      "picture": "elbrus.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Bora Bora",
+      "category": "Beach",
+      "picture": "bora-bora.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Maldives",
+      "category": "Beach",
+      "picture": "maldives.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Hawaii",
+      "category": "Beach",
+      "picture": "hawaii.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Bali",
+      "category": "Beach",
+      "picture": "bali.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Seychelles",
+      "category": "Beach",
+      "picture": "seychelles.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Malibu",
+      "category": "Beach",
+      "picture": "Malibu.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Rio de Janeiro",
+      "category": "Beach",
+      "picture": "rio-de-janeiro.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Cancun",
+      "category": "Beach",
+      "picture": "cancun.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Phuket",
+      "category": "Beach",
+      "picture": "phuket.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Byron Bay",
+      "category": "Beach",
+      "picture": "byron-bay.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Bald Eagle",
+      "category": "Bird",
+      "picture": "bald-eagle.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Penguin",
+      "category": "Bird",
+      "picture": "penguin.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Hummingbird",
+      "category": "Bird",
+      "picture": "hummingbird.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Peacock",
+      "category": "Bird",
+      "picture": "peacock.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Flamingo",
+      "category": "Bird",
+      "picture": "flamingo.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Ostrich",
+      "category": "Bird",
+      "picture": "ostrich.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Toucan",
+      "category": "Bird",
+      "picture": "toucan.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Cardinal",
+      "category": "Bird",
+      "picture": "cardinal.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Swan",
+      "category": "Bird",
+      "picture": "swan.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Blue Jay",
+      "category": "Bird",
+      "picture": "blue-jay.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Pizza",
+      "category": "Food",
+      "picture": "pizza.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Sushi",
+      "category": "Food",
+      "picture": "sushi.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Burger",
+      "category": "Food",
+      "picture": "burger.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Pasta",
+      "category": "Food",
+      "picture": "pasta.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "Ice Cream",
+      "category": "Food",
+      "picture": "ice-cream.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Tacos",
+      "category": "Food",
+      "picture": "tacos.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Sushi",
+      "category": "Food",
+      "picture": "sushi.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Chicken", 
+      "category": "Food",
+      "picture": "chicken.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Chocolate",
+      "category": "Food",
+      "picture": "chocolate.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Curry",
+      "category": "Food",
+      "picture": "curry.jpg"
+    }
+  ]
+  
