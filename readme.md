@@ -50,7 +50,7 @@ Créez une application web qui affiche une galerie d'images. Lors de l'initialis
 - Au chargement de la page, toutes les images doivent être affichées.
 
 - À côté de la galerie d'images, ajoutez un champ de saisie (input) permettant à l'utilisateur de filtrer les images par nom. Lorsque l'utilisateur saisit du texte dans cet input, seules les images dont le nom correspond en partie ou en totalité à ce texte doivent être affichées en temps réel.
-- Ajoutez également une liste de catégories sous la galerie d'images. Chaque catégorie doit être un bouton ou un lien cliquable. Lorsque l'utilisateur clique sur une catégorie, seules les images appartenant à cette catégorie doivent être affichées.
+- Ajoutez également une liste de catégories au dessus de la galerie d'images. Chaque catégorie doit être un bouton ou un lien cliquable. Lorsque l'utilisateur clique sur une catégorie, seules les images appartenant à cette catégorie doivent être affichées.
 
 - Les filtres doivent être cumulables, ce qui signifie que si l'utilisateur saisit du texte dans l'input et clique sur une catégorie, seules les images correspondant aux deux critères doivent être affichées.
 
