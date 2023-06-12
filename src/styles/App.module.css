@@ -1,0 +1,52 @@
+.main-title {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  max-width: 80%;
+  margin: auto;
+}
+
+.image {
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.controls {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.controls > input {
+  padding: 0.5rem;
+  border-radius: 15px;
+  margin: auto;
+}
+
+.inputs {
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin: auto;
+  margin-top: 2rem;
+  justify-content: center;
+}
+
+.inputs > button {
+  /* all: unset; */
+  margin: 0.5rem;
+  padding: 0.5rem 0.7rem;
+  border: solid 1px blueviolet;
+  border-radius: 15px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.active {
+  background: orange;
+}
